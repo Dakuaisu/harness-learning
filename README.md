@@ -1,5 +1,7 @@
 # Harness Learning: AI Harnesses Explained From Zero
 
+Written with Claude as a study guide.
+
 This guide teaches you what an **AI harness** is, how one works inside, and how to build one yourself. It starts from the basics and uses plain English, analogies, and lots of diagrams. You don't need to know anything about AI to begin.
 
 > **The one-sentence version:**
